@@ -16,6 +16,7 @@ print(data.sample())
 
 print("_"*50)
 
+                # SERIES METHOD
 # Counts the number of occurrences of each lead actor in the  data.values_count
 print(data.value_counts())
 
